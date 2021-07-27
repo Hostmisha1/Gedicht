@@ -8,4 +8,5 @@ Dunkelgrün
 Blau
 Gelb
 Magenta
+Pink
 Sind alles tolle Farben.
