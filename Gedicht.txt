@@ -4,4 +4,5 @@
 #841210 Rot
 #171515 Grün
 #171515 Blau
+Magenta
 Sind alles tolle Farben
