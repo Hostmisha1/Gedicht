@@ -1,0 +1,7 @@
+# Farbpalette
+
+
+#841210 Rot
+#171515 Grün
+#171515 Blau
+Sind alles tolle Farben
